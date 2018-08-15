@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "9962993840",
+    "firebase_url": "https://eatin-aa2bf.firebaseio.com",
+    "project_id": "eatin-aa2bf",
+    "storage_bucket": "eatin-aa2bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9962993840:android:692ace8282ee44f2",
+        "android_client_info": {
+          "package_name": "com.awesomeappdev.eatin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9962993840-cp4v8tf4ajkha548i8bu368fj4lv2pge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awesomeappdev.eatin",
+            "certificate_hash": "3a2d9a8843e4b026e9738fbacfa7ff38a841cb1e"
+          }
+        },
+        {
+          "client_id": "9962993840-nrrdsnp45vjpddro12m04t8tf595rpqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Yk0G1LZWHrAQVc8X1HqKtI6GbcAwhDs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9962993840-nrrdsnp45vjpddro12m04t8tf595rpqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
